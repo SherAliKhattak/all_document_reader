@@ -1,0 +1,4 @@
+{
+    "cmake.sourcesearch": "${workspaceFolder}/linux",
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
